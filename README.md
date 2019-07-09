@@ -1,0 +1,2 @@
+# React-Native-Firebase-implementation-fix
+So this is basically to fix the React Native Firebase by invertase ( https://rnfirebase.io  ) issue on React Native 0.60 and any other having the issue of warn Package react-native-firebase has been ignored because it contains invalid configuration. Reason: Unknown option dependency.platforms.android.buildPatch with value "" implementation project(':react-native-firebase')"" was found. This is either a typing error or a user mistake. Fixing it will remove this message.
